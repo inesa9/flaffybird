@@ -1,4 +1,4 @@
 package com.example.flaffybird
 
-class oiseau {
+class oiseau {taille:int
 }
